@@ -1,6 +1,6 @@
 # Jira-AI-Chatbot_Advanced
 
-# 🤖 JIRA AI Chatbot (RAG + Hybrid + MultiQuery + CrossEncoder + OpenAI + Streamlit)
+# 🤖 JIRA AI Chatbot (RAG + Hybrid + MultiQuery + CrossEncoder + Gemini/OpenAI + Streamlit)
 
 ## Problem Statement
 In large projects, thousands of Jira tickets are created over time. Searching for relevant issues, root causes, or past resolutions becomes difficult and time-consuming using traditional keyword search. Teams often spend significant effort manually analyzing tickets.
