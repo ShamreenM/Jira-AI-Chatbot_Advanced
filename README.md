@@ -14,7 +14,7 @@ An AI-powered JIRA assistant built using:
 - Pandas (Preprocessing)
 - LangChain Orchestration Framework
 - Sentence Transformer for embediing vector (Hugging Face)
-- Open AI
+- Gemini
 - ChromaDB (Vector Database)
 - Streamlit (Frontend)
 - Refer Jira_API_Chatbot.ipynb for above steps perfomed
